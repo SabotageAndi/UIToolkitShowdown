@@ -5,9 +5,11 @@ VisualStudioVersion = 16.0.28803.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinForms.UWP", "XamarinForms\XamarinForms.UWP\XamarinForms.UWP.csproj", "{B4D2FA9F-C90A-4BC8-8B46-AFD9ADD2C6F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinForms", "XamarinForms\XamarinForms\XamarinForms.csproj", "{D733CD2E-298C-43A3-B826-72F8D43CE1B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XamarinForms", "XamarinForms\XamarinForms\XamarinForms.csproj", "{D733CD2E-298C-43A3-B826-72F8D43CE1B2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinForms.WPF", "XamarinForms.WPF\XamarinForms.WPF.csproj", "{F4FAD690-D6FA-40BC-AC4B-BDF35C671309}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XamarinForms.GtkSharp", "XamarinForms.Gtk\XamarinForms.GtkSharp.csproj", "{782CA520-5397-41DB-B530-CBA05E890DC7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -85,6 +87,22 @@ Global
 		{F4FAD690-D6FA-40BC-AC4B-BDF35C671309}.Release|x64.Build.0 = Release|Any CPU
 		{F4FAD690-D6FA-40BC-AC4B-BDF35C671309}.Release|x86.ActiveCfg = Release|Any CPU
 		{F4FAD690-D6FA-40BC-AC4B-BDF35C671309}.Release|x86.Build.0 = Release|Any CPU
+		{782CA520-5397-41DB-B530-CBA05E890DC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{782CA520-5397-41DB-B530-CBA05E890DC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{782CA520-5397-41DB-B530-CBA05E890DC7}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{782CA520-5397-41DB-B530-CBA05E890DC7}.Debug|ARM.Build.0 = Debug|Any CPU
+		{782CA520-5397-41DB-B530-CBA05E890DC7}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{782CA520-5397-41DB-B530-CBA05E890DC7}.Debug|x64.Build.0 = Debug|Any CPU
+		{782CA520-5397-41DB-B530-CBA05E890DC7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{782CA520-5397-41DB-B530-CBA05E890DC7}.Debug|x86.Build.0 = Debug|Any CPU
+		{782CA520-5397-41DB-B530-CBA05E890DC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{782CA520-5397-41DB-B530-CBA05E890DC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{782CA520-5397-41DB-B530-CBA05E890DC7}.Release|ARM.ActiveCfg = Release|Any CPU
+		{782CA520-5397-41DB-B530-CBA05E890DC7}.Release|ARM.Build.0 = Release|Any CPU
+		{782CA520-5397-41DB-B530-CBA05E890DC7}.Release|x64.ActiveCfg = Release|Any CPU
+		{782CA520-5397-41DB-B530-CBA05E890DC7}.Release|x64.Build.0 = Release|Any CPU
+		{782CA520-5397-41DB-B530-CBA05E890DC7}.Release|x86.ActiveCfg = Release|Any CPU
+		{782CA520-5397-41DB-B530-CBA05E890DC7}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
